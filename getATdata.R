@@ -5,6 +5,5 @@ getATdata <- function(data) {
       tables = c(data)
     )
   
-  fullData <- 
-    fullData$data$select_all()
+  
 }
